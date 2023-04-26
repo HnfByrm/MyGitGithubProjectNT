@@ -21,5 +21,9 @@ public class AtmProject {
         System.out.println("bir kısım kodlar");
 
         //hnf2
+
+        System.out.println();
+
+        //hnf3
     }
 }
