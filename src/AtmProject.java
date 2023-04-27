@@ -28,5 +28,6 @@ public class AtmProject {
 
         System.out.println();
         //localde değişiklik yaptım.
+        //remotede değişiklik yaptım.
     }
 }
